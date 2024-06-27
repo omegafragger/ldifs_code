@@ -1,7 +1,7 @@
 # LDIFS
 
 [![arXiv](https://img.shields.io/badge/stat.ML-arXiv%3A2308.13320-B31B1B.svg)](https://arxiv.org/abs/2308.13320)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/omegafragger/ldifs/blob/tmlr_rebuttal/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/omegafragger/ldifs_code/blob/main/LICENSE)
 
 This repository contains the code for [*Fine-tuning can cripple your foundation model; preserving features may be the solution*](https://openreview.net/forum?id=kfhoeZCeW7).
 
