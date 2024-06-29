@@ -85,11 +85,15 @@ The result is stored as a simple JSON file with the following format. The follow
 If the code or the paper has been useful in your research, please add a citation to our work:
 
 ```
-@article{mukhoti2023fine,
-  title={Fine-tuning can cripple your foundation model; preserving features may be the solution},
-  author={Mukhoti, Jishnu and Gal, Yarin and Torr, Philip HS and Dokania, Puneet K},
-  journal={arXiv preprint arXiv:2308.13320},
-  year={2023}
+@article{
+mukhoti2024finetuning,
+title={Fine-tuning can cripple your foundation model; preserving features may be the solution},
+author={Jishnu Mukhoti and Yarin Gal and Philip Torr and Puneet K. Dokania},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2024},
+url={https://openreview.net/forum?id=kfhoeZCeW7},
+note={Featured Certification}
 }
 ```
 
